@@ -1,0 +1,25 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "th0mps0nty",
+  "description": "Claude Code plugins by Tyler Thompson",
+  "owner": {
+    "name": "Tyler Thompson",
+    "email": "web.duder@gmail.com",
+    "url": "https://github.com/th0mps0nty"
+  },
+  "plugins": [
+    {
+      "name": "organize-chrome-tabs",
+      "description": "Tame Chrome tab chaos — closes duplicates, sorts into themed windows, clusters by domain, and creates native tab groups. Adds a /organize-tabs skill to Claude Code.",
+      "author": {
+        "name": "Tyler Thompson"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "th0mps0nty/organize-chrome-tabs"
+      },
+      "homepage": "https://github.com/th0mps0nty/organize-chrome-tabs"
+    }
+  ]
+}
