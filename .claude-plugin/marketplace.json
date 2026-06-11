@@ -20,6 +20,19 @@
         "repo": "th0mps0nty/organize-chrome-tabs"
       },
       "homepage": "https://github.com/th0mps0nty/organize-chrome-tabs"
+    },
+    {
+      "name": "env-checkup",
+      "description": "Triple-check, back up, then optimize your shell and developer dotfiles (zsh/bash/fish). Backup-before-edit, never prints secrets, verifies a clean login shell. Adds an /env-checkup skill to Claude Code.",
+      "author": {
+        "name": "Tyler Thompson"
+      },
+      "category": "productivity",
+      "source": {
+        "source": "github",
+        "repo": "th0mps0nty/env-checkup"
+      },
+      "homepage": "https://github.com/th0mps0nty/env-checkup"
     }
   ]
 }
